@@ -9,7 +9,7 @@ const Home = () => {
       <div className='home' id='home'>
         <main>
           <h1>TechPanjabi</h1>
-          <p>Empowering Panjabi Talent, Elevating Global Reach! Celebrating Panjabi Stars: Your Path to Stardom, Our Expertise. </p>
+          <p>Empowering Panjabi Talent! Celebrating Panjabi Stars: Your Path to Stardom, Our Expertise. </p>
         </main>
       </div>
 
